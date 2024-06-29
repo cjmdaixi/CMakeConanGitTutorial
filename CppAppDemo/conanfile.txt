@@ -1,0 +1,5 @@
+[requires]
+libdemo/1.0.0
+
+[generators]
+cmake_paths
